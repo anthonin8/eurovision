@@ -39,7 +39,7 @@ class _AnecdotesPageState extends State<AnecdotesPage> {
 
   Future<void> _chargerDonnees() async {
     try {
-      final String response = await rootBundle.loadString('anecdotes.json');
+      final String response = await rootBundle.loadString('assets/anecdotes.json');
       final data = await json.decode(response);
       setState(() {
         toutesLesAnecdotes = List<Map<String, dynamic>>.from(data);

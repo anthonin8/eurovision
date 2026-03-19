@@ -104,7 +104,7 @@ class _MenuPrincipalState extends State<MenuPrincipal>
                       child: Opacity(
                         opacity: 0.8 + (0.2 * _animation.value),
                         child: Image.asset(
-                          'logo_coeur.webp',
+                          'assets/logo_coeur.webp',
                           width: 140,
                           height: 130,
                           fit: BoxFit.contain,
