@@ -9,7 +9,7 @@ android {
     namespace = "com.example.flutter_application_1"
     
     // Correction : On force la version 34 demandée par les nouveaux plugins
-    compileSdk = 34
+    compileSdk = 35
     
     // Correction : On force la version précise du NDK réclamée par share_plus et path_provider
     ndkVersion = "27.0.12077973"
@@ -30,7 +30,7 @@ android {
         minSdk = flutter.minSdkVersion
         
         // Correction : On force le targetSdk à 34
-        targetSdk = 34
+        targetSdk = 35
         
         versionCode = flutter.versionCode
         versionName = flutter.versionName
