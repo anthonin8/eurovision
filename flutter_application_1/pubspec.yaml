@@ -1,0 +1,35 @@
+name: flutter_application_1
+description: "Application Eurovision"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  http: ^1.2.0
+  country_flags: ^3.0.0
+  cupertino_icons: ^1.0.6
+  screenshot: ^3.0.0
+  share_plus: ^12.0.1
+  url_launcher: ^6.3.2
+  flutter_card_swiper: ^7.2.0
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/flags/
+    - assets/logo_coeur.webp
+    - assets/anecdotes.json

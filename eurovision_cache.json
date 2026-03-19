@@ -1,0 +1,98 @@
+[
+    {
+        "country": "Albanie",
+        "countryCode": "AL",
+        "participant": "Nân",
+        "song": "Alis"
+    },
+    {
+        "country": "Arménie",
+        "countryCode": "AM",
+        "participant": "Paloma Rumba",
+        "song": "Simón"
+    },
+    {
+        "country": "Australie",
+        "countryCode": "AU",
+        "participant": "Delta Goodrem",
+        "song": "Eclipse"
+    },
+    {
+        "country": "Autriche",
+        "countryCode": "AT",
+        "participant": "Cosmó",
+        "song": "Tanzschein"
+    },
+    {
+        "country": "Azerbaïdjan",
+        "countryCode": "AZ",
+        "participant": "Jiva",
+        "song": "Just Go"
+    },
+    {
+        "country": "Belgique",
+        "countryCode": "BE",
+        "participant": "À confirmer",
+        "song": "Dancing on the Ice"
+    },
+    {
+        "country": "Bulgarie",
+        "countryCode": "BG",
+        "participant": "À confirmer",
+        "song": "À confirmer"
+    },
+    {
+        "country": "Croatie",
+        "countryCode": "HR",
+        "participant": "À confirmer",
+        "song": "À confirmer"
+    },
+    {
+        "country": "Espagne",
+        "countryCode": "ES",
+        "participant": "À confirmer",
+        "song": "À confirmer"
+    },
+    {
+        "country": "France",
+        "countryCode": "FR",
+        "participant": "Monroe",
+        "song": "Regarde"
+    },
+    {
+        "country": "Allemagne",
+        "countryCode": "DE",
+        "participant": "Sarah Engels",
+        "song": "Fire"
+    },
+    {
+        "country": "Italie",
+        "countryCode": "IT",
+        "participant": "Sal Da Vinci",
+        "song": "Per sempre sì"
+    },
+    {
+        "country": "Royaume-Uni",
+        "countryCode": "GB",
+        "participant": "Look Mum No Computer",
+        "song": "Eins, Zwei, Drei"
+    },
+    {
+        "country": "Israël",
+        "countryCode": "IL",
+        "participant": "Noam Bettan",
+        "song": "Michelle"
+    },
+    {
+        "country": "Suède",
+        "countryCode": "SE",
+        "participant": "Felicia",
+        "song": "My System"
+    },
+    {
+        "country": "Estonie",
+        "countryCode": "EE",
+        "participant": "Vanilla Ninja",
+        "song": "Too Epic To Be True"
+    }
+]
