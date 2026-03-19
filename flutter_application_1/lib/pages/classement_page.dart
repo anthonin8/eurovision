@@ -199,7 +199,7 @@ class _ClassementPageState extends State<ClassementPage> {
       final serpKey = prefs.getString('serp_api_key') ?? "";
 
       // Remplace bien l'IP par celle de ton serveur Flask
-      final url = Uri.parse('http://192.168.1.2:5000/api/$route');
+      final url = Uri.parse('https://eurovision-d30s.onrender.com/api/$route');
       
       final response = await http.get(
         url,
