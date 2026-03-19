@@ -43,7 +43,7 @@ class _FicheAnneePageState extends State<FicheAnneePage> {
       // On utilise HTTPS car c'est obligatoire pour le mobile
       final url = Uri.parse('https://eurovision-d30s.onrender.com/api/eurovision/${widget.annee}');
       
-      final response = await http.get(url).timeout(const Duration(seconds: 45));
+      final response = await http.get(url).timeout(const Duration(seconds: 60));
 
       if (response.statusCode == 200) {
         if (mounted) {
